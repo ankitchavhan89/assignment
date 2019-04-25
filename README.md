@@ -32,8 +32,8 @@ Steps to install project
 
     NODE_ENV=development
     PORT=4001
-    MONGO_URI=mongodb://localhost:27017/intellect
-    MONGO_URI_TESTS=mongodb://localhost:27017/intellect
+    MONGO_URI=mongodb://localhost:27017/assignment
+    MONGO_URI_TESTS=mongodb://localhost:27017/assignment
     MONGO_ENABLED=true
     HOST=localhost
     IO_PORT=8123
