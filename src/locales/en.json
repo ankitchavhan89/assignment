@@ -1,0 +1,11 @@
+{
+	"SOME_THING_WENT_WRONG": "Something went wrong. Please try again later.",
+	"USER_NOT_FOUND": "User not found.",
+	"SUCCESS": "success",
+	"FAILED": "Failed",
+	"User registered suucessfully": "User registered suucessfully",
+	"Email already exists": "Email already exists",
+	"Email not activated": "Email not activated",
+	"User logged in successfully": "User logged in successfully",
+	"All trades are deleted": "All trades are deleted"
+}
