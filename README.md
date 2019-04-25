@@ -1,5 +1,4 @@
-# intellectDesign
-An Assignment for intellect Design 
+# Assignment
 
 ## Features
 
